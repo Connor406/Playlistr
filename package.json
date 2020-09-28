@@ -1,6 +1,6 @@
 {
-  "homepage": "http://Connor406.github.io/Jammming",
-  "name": "jammming",
+  "homepage": "http://Connor406.github.io/playlistr",
+  "name": "Playlistr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
