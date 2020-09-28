@@ -1,5 +1,5 @@
-const clientId = '6739337c502e487bbe7c7d9d9abf8b13';
-const redirectUri = "https://connor406.github.io/playlistr/";
+const clientId = " * Some API key here * ";
+const redirectUri = "http://play-listr.surge.sh";
 let accessToken;
 
 const Spotify = {
